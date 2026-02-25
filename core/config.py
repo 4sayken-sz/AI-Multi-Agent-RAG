@@ -9,8 +9,8 @@ def setup_environment():
     os.environ["LANGCHAIN_TRACING_V2"] = "true"
     os.environ["LANGCHAIN_PROJECT"] = "Automated-Financial-Analyst"
     
-    print("✅ LLMOps: LangSmith Observability is ENABLED.")
-    print(f"📊 Tracing to LangSmith Project: '{os.environ.get('LANGCHAIN_PROJECT')}'")
+    print("LLMOps: LangSmith Observability is ENABLED.")
+    print(f"Tracing to LangSmith Project: '{os.environ.get('LANGCHAIN_PROJECT')}'")
 
 def initialize_llm():
     load_dotenv()
