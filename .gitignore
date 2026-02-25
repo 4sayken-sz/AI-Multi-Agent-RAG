@@ -1,0 +1,7 @@
+ignore/
+venv/
+.env
+*.png
+__pycache__
+tsla_10k.txt
+checkpoints.sqlite*
