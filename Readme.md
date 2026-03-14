@@ -1,4 +1,4 @@
-# 📈 Autonomous Multi-Agent Financial Analyst
+# Autonomous Multi-Agent Financial Analyst
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-orange.svg)](https://python.langchain.com/v0.1/docs/langgraph/)
@@ -15,4 +15,4 @@ An enterprise-grade, multi-agent AI pipeline designed to automate financial rese
 * **Deterministic Infinite-Loop Protection:** A 'Senior Reviewer' agent grades outputs and forces revision loops (capped at 3 iterations) to ensure high-accuracy text and functional code.
 
 ## Live Demo
-https://ai-financial-analysis-krcztgxet4pazpvklcavxm.streamlit.app/
+https://ai-multi-agent-rag-zpwyxmfvkcvjbhxp9i7r8x.streamlit.app/
